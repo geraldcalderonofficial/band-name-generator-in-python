@@ -22,4 +22,4 @@ city = ""
     else:
         break
 
-print(f"Your band name could be {city} {pet_name}")
+
